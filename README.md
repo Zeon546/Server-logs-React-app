@@ -22,7 +22,6 @@ server-logs-viewer/
 │   └── main.py          # FastAPI backend API
 ├── frontend/
 │   └── App.js           # Main React component
-│   └── App.css          # CSS styles
 └── README.md
 ```
 
