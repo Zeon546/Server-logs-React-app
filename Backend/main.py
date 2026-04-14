@@ -1,7 +1,8 @@
 from fastapi import FastAPI, HTTPException, File
 from datetime import datetime,timedelta
 from dateutil import parser
-from fastapi.middleware.cors import CORSMiddleware
+from fastapi.middleware.cors 
+import CORSMiddleware
 
 
 
