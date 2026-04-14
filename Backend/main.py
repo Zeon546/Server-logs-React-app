@@ -3,6 +3,8 @@ from datetime import datetime,timedelta
 from dateutil import parser
 from fastapi.middleware.cors import CORSMiddleware
 
+
+
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
